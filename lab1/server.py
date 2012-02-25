@@ -69,6 +69,5 @@ while True:
                newSocket.send('42');
             else:
                print('Can you elaborate on that?');
-            newSocket.close();
-
+newSocket.close();
 quit()
